@@ -1,0 +1,6 @@
+# Live at a URL, but shared directly rather than published.
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: *
+Disallow: /
